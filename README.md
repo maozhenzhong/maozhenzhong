@@ -1,12 +1,10 @@
+# 毛振仲
 
-<div style="margin: 0 auto 16px; width: 80px; height: 80px; overflow: hidden; border-radius: 50%;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maozhenzhong&show_icons=true&theme=radical)
 
-![maozhenzhong](https://avatars.githubusercontent.com/u/11130699?v=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maozhenzhong)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maozhenzhong&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-<center>
 
-## Mao Zhenzhong
 
-<center>
