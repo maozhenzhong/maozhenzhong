@@ -25,4 +25,5 @@
     </a>
   </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maozhenzhong&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=maozhenzhong&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maozhenzhong&layout=compact)
